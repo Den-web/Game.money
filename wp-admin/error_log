@@ -1,0 +1,1 @@
+[27-Aug-2015 06:20:50 UTC] База данных WordPress возвратила ошибку Table 'alvon172_wp243.wp_rcl_user_action' doesn't exist в ответ на запрос SELECT time_action FROM wp_rcl_user_action WHERE user='1', выполненный activate_plugin, do_action('activate_wp-recall/recall.php'), call_user_func_array, recall_install, init_global_rcl

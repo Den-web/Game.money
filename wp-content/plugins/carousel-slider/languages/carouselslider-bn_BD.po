@@ -1,0 +1,314 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Carousel Slider\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/carousel-slider\n"
+"POT-Creation-Date: 2014-09-07 13:41:21+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-09-07 23:12+0600\n"
+"Last-Translator: Sayful Islam <sayful.islam001@gmail.com>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: Bengali\n"
+
+#: carousel-img-type.php:6
+msgctxt "Post Type General Name"
+msgid "Carousels"
+msgstr "ক্যরোসেল"
+
+#: carousel-img-type.php:7
+msgctxt "Post Type Singular Name"
+msgid "Carousel"
+msgstr "ক্যরোসেল"
+
+#: carousel-img-type.php:8
+msgid "Carousels"
+msgstr "ক্যরোসেল সমূহ"
+
+#: carousel-img-type.php:9
+msgid "Parent Carousel:"
+msgstr "মূল ক্যরোসেল"
+
+#: carousel-img-type.php:10
+msgid "All Carousels"
+msgstr "সকল ক্যরোসেল সমূহ"
+
+#: carousel-img-type.php:11
+msgid "View Carousel"
+msgstr "ক্যরোসেল প্রদর্শন"
+
+#: carousel-img-type.php:12
+msgid "Add New Carousel"
+msgstr "নতুন ক্যরোসেল যুক্ত করুন"
+
+#: carousel-img-type.php:13
+msgid "Add New"
+msgstr "নতুন যুক্ত করুন"
+
+#: carousel-img-type.php:14
+msgid "Edit Carousel"
+msgstr "ক্যরোসেল সম্পাদন করুন"
+
+#: carousel-img-type.php:15
+msgid "Update Carousel"
+msgstr "ক্যরোসেল হালনাগাদ করন"
+
+#: carousel-img-type.php:16
+msgid "Search Carousel"
+msgstr "ক্যরোসেল অনুসন্ধান করুন"
+
+#: carousel-img-type.php:17
+msgid "Not found"
+msgstr "পাওয়া যায় নি"
+
+#: carousel-img-type.php:18
+msgid "Not found in Trash"
+msgstr "ট্রস্টে পাওয়া যায় নি"
+
+#: carousel-img-type.php:27 carousel-img-type.php:28
+msgid "Carousel"
+msgstr "ক্যরোসেল"
+
+#: carousel-img-type.php:57
+msgid "Upload Carousel Image"
+msgstr "ক্যরোসেল চিত্র আপলোড করুন"
+
+#: carousel-options.php:3 carousel.php:81
+msgid "Carousel Settings"
+msgstr "ক্যরোসেল সেটিং"
+
+#: carousel-options.php:13
+msgid "Maximum Items"
+msgstr "সর্বাধিক আইটেম"
+
+#: carousel-options.php:17
+msgid ""
+"This variable allows you to set the maximum amount of items displayed at a "
+"time with the widest browser width &#40;window &gt;= 1200&#41;"
+msgstr ""
+"এই ভেরিয়াবল আপনাকে ব্রাউজারের প্রস্থ  (উইন্ডো <= 1200) সঙ্গে একটি সময়ে প্রদর্শিত "
+"সর্বোচ্চ পরিমাণ আইটেম সেট করতে পারবেন।"
+
+#: carousel-options.php:22
+msgid "Items Desktop"
+msgstr "আইটেম ডেস্কটপ"
+
+#: carousel-options.php:26
+msgid ""
+"This allows you to preset the number of slides visible with  &#40;window &lt;"
+"= 1199&#41; browser width"
+msgstr ""
+"(উইন্ডো <= ১১৯৯) ব্রাউজার প্রস্থে কতটি স্লাইড সংখ্যা প্রিসেট করতে পারবেন তা নর্দিস্ট "
+"করুন"
+
+#: carousel-options.php:31
+msgid "Items Desktop Small"
+msgstr "আইটেম ছোট ডেস্কটপ"
+
+#: carousel-options.php:35
+msgid ""
+"This allows you to preset the number of slides visible with  &#40;window &lt;"
+"= 979&#41; browser width"
+msgstr ""
+"(উইন্ডো <= ৯৭৯) ব্রাউজার প্রস্থে কতটি স্লাইড সংখ্যা প্রিসেট করতে পারবেন তা নর্দিস্ট "
+"করুন"
+
+#: carousel-options.php:40
+msgid "Items Tablet"
+msgstr "আইটেম ট্যাবলেট"
+
+#: carousel-options.php:44
+msgid ""
+"This allows you to preset the number of slides visible with  &#40;window &lt;"
+"= 768&#41; browser width"
+msgstr ""
+"(উইন্ডো <= ৭৬৮) ব্রাউজার প্রস্থে কতটি স্লাইড সংখ্যা প্রিসেট করতে পারবেন তা নর্দিস্ট "
+"করুন"
+
+#: carousel-options.php:49
+msgid "Items Mobile"
+msgstr "আইটেম মোবাইল"
+
+#: carousel-options.php:53
+msgid ""
+"This allows you to preset the number of slides visible with  &#40;window &lt;"
+"= 479&#41; browser width"
+msgstr ""
+"(উইন্ডো <= ৪৭৯) ব্রাউজার প্রস্থে কতটি স্লাইড সংখ্যা প্রিসেট করতে পারবেন তা নর্দিস্ট "
+"করুন"
+
+#: carousel-options.php:58
+msgid "Single Item"
+msgstr "একক আইটেম"
+
+#: carousel-options.php:61 carousel-options.php:121 carousel-options.php:131
+#: carousel-options.php:159 carousel-options.php:169 carousel-options.php:188
+msgid "NO"
+msgstr "না"
+
+#: carousel-options.php:62 carousel-options.php:122 carousel-options.php:132
+#: carousel-options.php:160 carousel-options.php:170 carousel-options.php:189
+msgid "Yes"
+msgstr "হা"
+
+#: carousel-options.php:63
+msgid ""
+"If you select \"Yes\", it will display only one item and top five options "
+"will be automatically stopped."
+msgstr ""
+"আপনি  \"হ্যাঁ \" নির্বাচন করুন, এটি কেবল একটি আইটেম প্রদর্শন করবে এবং শীর্ষ পাঁচটি "
+"বিকল্প স্বয়ংক্রিয়ভাবে বন্ধ করা হবে ।"
+
+#: carousel-options.php:68
+msgid "Transition Style"
+msgstr "স্থানান্তরণ স্টাইল"
+
+#: carousel-options.php:72
+msgid "fade"
+msgstr "বিবর্ণ"
+
+#: carousel-options.php:73
+msgid "backSlide"
+msgstr "আগেকার অবস্থান থেকে পিছিয়ে পড়া"
+
+#: carousel-options.php:74
+msgid "goDown"
+msgstr "আগেকার অবস্থান থেকে নিচে যাওয়া"
+
+#: carousel-options.php:75
+msgid "scaleUp"
+msgstr "আপ আকার পরিবর্তন"
+
+#: carousel-options.php:77
+msgid ""
+"Transition style works only in modern browsers that support CSS3 translate3d "
+"methods and only with single item on screen."
+msgstr ""
+"স্থানান্তরণ শৈলী শুধুমাত্র CSS 3 Translate3d পদ্ধতি সমর্থন করে আধুনিক ব্রাউজারে এবং "
+"শুধুমাত্র পর্দায় আইটেম সঙ্গে কাজ করে ।"
+
+#: carousel-options.php:82
+msgid "Slide Speed"
+msgstr "স্লাইড গতি"
+
+#: carousel-options.php:86
+msgid ""
+"Slide speed in milliseconds. Default speed is &lsquo;200&rsquo; milliseconds."
+msgstr "মিলিসেকেন্ডে ব্যক্ত গতি স্লাইড. ডিফল্ট গতি '200' মিলিসেকেন্ড হয়."
+
+#: carousel-options.php:91
+msgid "Pagination Speed"
+msgstr "পত্রাঙ্কন গতি"
+
+#: carousel-options.php:95
+msgid ""
+"Pagination speed in milliseconds. Default speed is &lsquo;800&rsquo; "
+"milliseconds."
+msgstr "মিলিসেকেন্ডে ব্যক্ত পেজিনেশন গতি. ডিফল্ট গতি '800' মিলিসেকেন্ড হয়."
+
+#: carousel-options.php:100
+msgid "Rewind Speed"
+msgstr "গুটিয়ে নেওয়ার গতি"
+
+#: carousel-options.php:104
+msgid ""
+"Rewind speed in milliseconds. Default speed is &lsquo;1000&rsquo; "
+"milliseconds."
+msgstr "মিলিসেকেন্ডে ব্যক্ত গুটিয়ে নেওয়ার গতি. ডিফল্ট গতি '1000' মিলিসেকেন্ড হয়."
+
+#: carousel-options.php:109
+msgid "AutoPlay"
+msgstr "স্বয়ংক্রিয়ভাবে চলা"
+
+#: carousel-options.php:113
+msgid ""
+"Change to any integrer for example &lsquo;autoPlay : 5000&rsquo; to play "
+"every 5 seconds. If you set &lsquo;autoPlay: true&rsquo; default speed will "
+"be 5 seconds."
+msgstr ""
+"যে কোনো পূর্ন সংখ্যায় পরিবর্তন করুন যেমন 'স্বয়ংক্রিয়ভাবে চলা: 8000' প্রতি ৮ সেকেন্ডে "
+"অনলাইন. আপনি 'স্বয়ংক্রিয়ভাবে চলা: true 'সেট যদি ডিফল্ট গতি 5 সেকেন্ড হতে হবে."
+
+#: carousel-options.php:118
+msgid "Stop On Hover"
+msgstr "কার্সার রাখার স্থানে থামুন"
+
+#: carousel-options.php:123
+msgid "Stop autoplay on mouse hover."
+msgstr "মাউস উপর কার্সার রেখে দেখুন অটোপ্লে বন্ধ করুন ।"
+
+#: carousel-options.php:128
+msgid "Navigation"
+msgstr "ন্যাভিগেশন"
+
+#: carousel-options.php:133
+msgid "Display &lsquo;next&rsquo; and &lsquo;prev&rsquo; buttons."
+msgstr "&lsquo;পরবর্তী&rsquo; এবং &lsquo;পূর্ববর্তী&rsquo; বাটন দেখান ।"
+
+#: carousel-options.php:138
+msgid "Navigation Color"
+msgstr "ন্যাভিগেশন রঙ"
+
+#: carousel-options.php:142
+msgid "Choose color for Navigation Background."
+msgstr "ন্যাভিগেশন পটভূমির জন্য রঙ চয়ন করুন ।"
+
+#: carousel-options.php:147
+msgid "Navigation Arrow Color"
+msgstr "ন্যাভিগেশন তীর রঙ"
+
+#: carousel-options.php:151
+msgid "Choose color for Navigation Arrow."
+msgstr "ন্যাভিগেশন তীর জন্য রঙ চয়ন করুন ।"
+
+#: carousel-options.php:156
+msgid "Scroll Per Page"
+msgstr "প্রতি পৃষ্ঠা স্ক্রোল"
+
+#: carousel-options.php:161
+msgid ""
+"Scroll per page not per item. This affect next/prev buttons and mouse/touch "
+"dragging."
+msgstr ""
+"প্রতি পৃষ্ঠায় স্ক্রোল করুন, আইটেম প্রতি নয় । এই পরবর্তী / পূর্ববর্তী বাটন এবং মাউস / "
+"স্পর্শ টেনে আনা আটকানো প্রভাবিত."
+
+#: carousel-options.php:166
+msgid "Pagination"
+msgstr "পত্রাঙ্কন"
+
+#: carousel-options.php:171
+msgid "Show pagination."
+msgstr "পত্রাঙ্কন দেখান"
+
+#: carousel-options.php:176
+msgid "Pagination Color"
+msgstr "পত্রাঙ্কন রং"
+
+#: carousel-options.php:180
+msgid "Choose color for Pagination Background."
+msgstr "পত্রাঙ্ক পটভূমির জন্য রঙ চয়ন করুন ।"
+
+#: carousel-options.php:185
+msgid "Pagination Numbers"
+msgstr "পত্রাঙ্কন সংখ্যা"
+
+#: carousel-options.php:190
+msgid "Show numbers inside pagination buttons"
+msgstr "পত্রাঙ্কন বাটনের মধ্যে সংখ্যা প্রদর্শন"
+
+#: carousel-options.php:195
+msgid "Pagination Number Color"
+msgstr "পত্রাঙ্কন সংখ্যা রং"
+
+#: carousel-options.php:199
+msgid "Choose color for Pagination Number."
+msgstr "পত্রাঙ্কন সংখ্যার জন্য রং পছন্দ করুন"
+
+#: carousel-options.php:204
+msgid "Save Changes"
+msgstr "পরিবর্তন সংরক্ষন করুন"

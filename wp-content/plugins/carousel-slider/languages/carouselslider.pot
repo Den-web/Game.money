@@ -1,0 +1,293 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/carousel-slider\n"
+"POT-Creation-Date: 2014-09-07 13:41:21+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: carousel-img-type.php:6
+msgctxt "Post Type General Name"
+msgid "Carousels"
+msgstr ""
+
+#: carousel-img-type.php:7
+msgctxt "Post Type Singular Name"
+msgid "Carousel"
+msgstr ""
+
+#: carousel-img-type.php:8
+msgid "Carousels"
+msgstr ""
+
+#: carousel-img-type.php:9
+msgid "Parent Carousel:"
+msgstr ""
+
+#: carousel-img-type.php:10
+msgid "All Carousels"
+msgstr ""
+
+#: carousel-img-type.php:11
+msgid "View Carousel"
+msgstr ""
+
+#: carousel-img-type.php:12
+msgid "Add New Carousel"
+msgstr ""
+
+#: carousel-img-type.php:13
+msgid "Add New"
+msgstr ""
+
+#: carousel-img-type.php:14
+msgid "Edit Carousel"
+msgstr ""
+
+#: carousel-img-type.php:15
+msgid "Update Carousel"
+msgstr ""
+
+#: carousel-img-type.php:16
+msgid "Search Carousel"
+msgstr ""
+
+#: carousel-img-type.php:17
+msgid "Not found"
+msgstr ""
+
+#: carousel-img-type.php:18
+msgid "Not found in Trash"
+msgstr ""
+
+#: carousel-img-type.php:27 carousel-img-type.php:28
+msgid "Carousel"
+msgstr ""
+
+#: carousel-img-type.php:57
+msgid "Upload Carousel Image"
+msgstr ""
+
+#: carousel-options.php:3 carousel.php:81
+msgid "Carousel Settings"
+msgstr ""
+
+#: carousel-options.php:13
+msgid "Maximum Items"
+msgstr ""
+
+#: carousel-options.php:17
+msgid ""
+"This variable allows you to set the maximum amount of items displayed at a "
+"time with the widest browser width &#40;window &gt;= 1200&#41;"
+msgstr ""
+
+#: carousel-options.php:22
+msgid "Items Desktop"
+msgstr ""
+
+#: carousel-options.php:26
+msgid ""
+"This allows you to preset the number of slides visible with  &#40;window &lt;"
+"= 1199&#41; browser width"
+msgstr ""
+
+#: carousel-options.php:31
+msgid "Items Desktop Small"
+msgstr ""
+
+#: carousel-options.php:35
+msgid ""
+"This allows you to preset the number of slides visible with  &#40;window &lt;"
+"= 979&#41; browser width"
+msgstr ""
+
+#: carousel-options.php:40
+msgid "Items Tablet"
+msgstr ""
+
+#: carousel-options.php:44
+msgid ""
+"This allows you to preset the number of slides visible with  &#40;window &lt;"
+"= 768&#41; browser width"
+msgstr ""
+
+#: carousel-options.php:49
+msgid "Items Mobile"
+msgstr ""
+
+#: carousel-options.php:53
+msgid ""
+"This allows you to preset the number of slides visible with  &#40;window &lt;"
+"= 479&#41; browser width"
+msgstr ""
+
+#: carousel-options.php:58
+msgid "Single Item"
+msgstr ""
+
+#: carousel-options.php:61 carousel-options.php:121 carousel-options.php:131
+#: carousel-options.php:159 carousel-options.php:169 carousel-options.php:188
+msgid "NO"
+msgstr ""
+
+#: carousel-options.php:62 carousel-options.php:122 carousel-options.php:132
+#: carousel-options.php:160 carousel-options.php:170 carousel-options.php:189
+msgid "Yes"
+msgstr ""
+
+#: carousel-options.php:63
+msgid ""
+"If you select \"Yes\", it will display only one item and top five options "
+"will be automatically stopped."
+msgstr ""
+
+#: carousel-options.php:68
+msgid "Transition Style"
+msgstr ""
+
+#: carousel-options.php:72
+msgid "fade"
+msgstr ""
+
+#: carousel-options.php:73
+msgid "backSlide"
+msgstr ""
+
+#: carousel-options.php:74
+msgid "goDown"
+msgstr ""
+
+#: carousel-options.php:75
+msgid "scaleUp"
+msgstr ""
+
+#: carousel-options.php:77
+msgid ""
+"Transition style works only in modern browsers that support CSS3 translate3d "
+"methods and only with single item on screen."
+msgstr ""
+
+#: carousel-options.php:82
+msgid "Slide Speed"
+msgstr ""
+
+#: carousel-options.php:86
+msgid ""
+"Slide speed in milliseconds. Default speed is &lsquo;200&rsquo; milliseconds."
+msgstr ""
+
+#: carousel-options.php:91
+msgid "Pagination Speed"
+msgstr ""
+
+#: carousel-options.php:95
+msgid ""
+"Pagination speed in milliseconds. Default speed is &lsquo;800&rsquo; "
+"milliseconds."
+msgstr ""
+
+#: carousel-options.php:100
+msgid "Rewind Speed"
+msgstr ""
+
+#: carousel-options.php:104
+msgid ""
+"Rewind speed in milliseconds. Default speed is &lsquo;1000&rsquo; "
+"milliseconds."
+msgstr ""
+
+#: carousel-options.php:109
+msgid "AutoPlay"
+msgstr ""
+
+#: carousel-options.php:113
+msgid ""
+"Change to any integrer for example &lsquo;autoPlay : 5000&rsquo; to play "
+"every 5 seconds. If you set &lsquo;autoPlay: true&rsquo; default speed will "
+"be 5 seconds."
+msgstr ""
+
+#: carousel-options.php:118
+msgid "Stop On Hover"
+msgstr ""
+
+#: carousel-options.php:123
+msgid "Stop autoplay on mouse hover."
+msgstr ""
+
+#: carousel-options.php:128
+msgid "Navigation"
+msgstr ""
+
+#: carousel-options.php:133
+msgid "Display &lsquo;next&rsquo; and &lsquo;prev&rsquo; buttons."
+msgstr ""
+
+#: carousel-options.php:138
+msgid "Navigation Color"
+msgstr ""
+
+#: carousel-options.php:142
+msgid "Choose color for Navigation Background."
+msgstr ""
+
+#: carousel-options.php:147
+msgid "Navigation Arrow Color"
+msgstr ""
+
+#: carousel-options.php:151
+msgid "Choose color for Navigation Arrow."
+msgstr ""
+
+#: carousel-options.php:156
+msgid "Scroll Per Page"
+msgstr ""
+
+#: carousel-options.php:161
+msgid ""
+"Scroll per page not per item. This affect next/prev buttons and mouse/touch "
+"dragging."
+msgstr ""
+
+#: carousel-options.php:166
+msgid "Pagination"
+msgstr ""
+
+#: carousel-options.php:171
+msgid "Show pagination."
+msgstr ""
+
+#: carousel-options.php:176
+msgid "Pagination Color"
+msgstr ""
+
+#: carousel-options.php:180
+msgid "Choose color for Pagination Background."
+msgstr ""
+
+#: carousel-options.php:185
+msgid "Pagination Numbers"
+msgstr ""
+
+#: carousel-options.php:190
+msgid "Show numbers inside pagination buttons"
+msgstr ""
+
+#: carousel-options.php:195
+msgid "Pagination Number Color"
+msgstr ""
+
+#: carousel-options.php:199
+msgid "Choose color for Pagination Number."
+msgstr ""
+
+#: carousel-options.php:204
+msgid "Save Changes"
+msgstr ""

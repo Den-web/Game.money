@@ -1,0 +1,59 @@
+@media (max-width: 480px) {
+	.gallery .vertical_gal{
+		display:none;
+	}
+	#masthead {
+    		height: 125px;
+    	}
+    	.title_h1 {
+	    color: #ff9900;
+	    width: 143px;
+	    height: 35px;
+	    text-align: center;
+	    padding-top: 4px;
+	}
+	
+	.entry-content{
+		max-width: 340px !important;
+		height: 50px;
+		font-size: 9px !important;
+		text-overflow: ellipsis;
+		overflow: hidden; 
+		margin: 5px !important;
+	}
+	.entry-thumbnail{
+		width: 79px !important;
+	}
+	h1.entry-title a{
+		font-size: 10px;
+		margin-left: 20px;
+		font-weight: bold;
+		
+	}
+	h1.entry-title{
+		margim:0;
+		height: 33px;
+		width: 2%;
+		
+	}
+	time.entry-date{
+		left: 270px !important;
+		color: #000;
+		font-family: "Roboto";
+		font-size: 9px;
+		font-style: italic;
+	}
+	.title_h1.font-size18.font-roboto-bold.textTransform{
+		font-size: 8px;
+	}
+	.entry-thumbnail img{
+		margin-top: 13px !important;
+	}
+	.thirdPanel-wraper{
+		top: -45px;
+		left: 4px;
+	}
+	.back_news{
+		    left: 4px;
+	}
+} 

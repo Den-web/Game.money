@@ -1,0 +1,7 @@
+Name: Feed Wp-Recall (Подписки);
+Version: 1.8.1;
+Support Core: 13.2.0;
+Description: Функционал формирования подписок пользователя и их просмотра для wp-recall;
+Author: Плечев Андрей;
+Author URI: http://wppost.ru/;
+Add-on URI: http://wppost.ru/products/feed-recall-dopolnenie-wp-recall-dlya-formirovaniya-feed-lenty-novostej-polzovatelya/;
